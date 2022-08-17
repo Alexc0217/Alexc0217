@@ -27,4 +27,4 @@ Olá!! Eu sou o Alex. Segue meus stats e minhas informações:
  
  ##
  
- ![snake annimation](https://github.com/Alexc0217/Alexc0217/blob/output/github-contribution-grid-snake.gif)
+ ![snake annimation](https://github.com/Alexc0217/Alexc0217/blob/output/github-contribution-grid-snake.svg)
