@@ -8,7 +8,7 @@
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexc0217&langs_count=16&layout=compact&show_icons=true&theme=tokyonight"/>
 </div>
 <br/>
-<h3>Principais tecnologias em que eu atuo:</h3>
+<h3>Principais tecnologias em que atuo:</h3>
 <div>
   <img align="center" width="90px" height="50px" alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" width="90px" height="100px" alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
